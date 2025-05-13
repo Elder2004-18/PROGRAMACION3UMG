@@ -1,0 +1,57 @@
+[
+  {
+    "Id": "C001",
+    "Nombre": "Ana Pérez",
+    "Correo": "ana.perez@email.com",
+    "Tarjetas": [
+      {
+        "Numero": "4111111111111111",
+        "Saldo": 1500,
+        "FechaVencimiento": "2026-05-01",
+        "PIN": "1234",
+        "Bloqueada": false,
+        "HistorialTransacciones": [
+          {
+            "Tipo": "compra",
+            "Monto": 200,
+            "Fecha": "2024-01-15"
+          },
+          {
+            "Tipo": "pago",
+            "Monto": 150,
+            "Fecha": "2024-01-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "C002",
+    "Nombre": "Juan López",
+    "Correo": "juan.lopez@email.com",
+    "Tarjetas": [
+      {
+        "Numero": "5222333344445555",
+        "Saldo": 3000,
+        "FechaVencimiento": "2025-12-31",
+        "PIN": "5678",
+        "Bloqueada": true,
+        "HistorialTransacciones": [
+          {
+            "Tipo": "compra",
+            "Monto": 500,
+            "Fecha": "2024-02-10"
+          }
+        ]
+      },
+      {
+        "Numero": "4333333333334444",
+        "Saldo": 1000,
+        "FechaVencimiento": "2025-08-01",
+        "PIN": "4252",
+        "Bloqueada": false,
+        "HistorialTransacciones": []
+      }
+    ]
+  }
+]

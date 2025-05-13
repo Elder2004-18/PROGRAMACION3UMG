@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\lectorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\lectorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\clientejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\clientejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\comparador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\comparador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\tablahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\tablahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\nodolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\nodolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|c:\\users\\sopor\\source\\repos\\proyectofinal\\proyectofinal\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51296CE-380B-49A2-8C10-575A9A21861D}|PROYECTOFINAL\\PROYECTOFINAL.csproj|solutionrelative:proyectofinal\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clientes.json",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\clientes.json",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\clientes.json",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\clientes.json",
+              "RelativeToolTip": "PROYECTOFINAL\\clientes.json",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T16:44:28.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Cliente.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\Cliente.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Cliente.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\Cliente.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:15:51.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteJson.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ClienteJson.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\ClienteJson.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ClienteJson.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\ClienteJson.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T16:40:50.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Cola.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\Cola.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Cola.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\Cola.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:11:08.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comparador.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Comparador.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\Comparador.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Comparador.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\Comparador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:22:39.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Transaccion.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Transaccion.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\Transaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:17:31.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Program.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\Program.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Program.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:11:38.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LectorJson.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\LectorJson.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\LectorJson.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\LectorJson.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\LectorJson.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:42:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Pila.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\Pila.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\Pila.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\Pila.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:10:39.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArbolBinario.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ArbolBinario.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\ArbolBinario.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ArbolBinario.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\ArbolBinario.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:07:36.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TablaHash.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\TablaHash.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\TablaHash.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\TablaHash.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\TablaHash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:09:41.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NodoLista.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\NodoLista.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\NodoLista.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\NodoLista.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\NodoLista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:29:09.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaEnlazada.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ListaEnlazada.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\ListaEnlazada.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ListaEnlazada.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\ListaEnlazada.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAIwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:10:20.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ARBOLAVL.cs",
+              "DocumentMoniker": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ARBOLAVL.cs",
+              "RelativeDocumentMoniker": "PROYECTOFINAL\\ARBOLAVL.cs",
+              "ToolTip": "C:\\Users\\sopor\\source\\repos\\PROYECTOFINAL\\PROYECTOFINAL\\ARBOLAVL.cs",
+              "RelativeToolTip": "PROYECTOFINAL\\ARBOLAVL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:08:33.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
